@@ -65,4 +65,5 @@ Master's Thesis: master-thesis-report.pdf
 👤 Author
 Ayoub Elhassani
 📧 ayoubelhassani32@gmail.com
-🔗 LinkedIn | GitHub
+🔗 [LinkedIn](https://www.linkedin.com/in/ayoub-elhassani)  
+🔗 [GitHub](https://github.com/ayoubHN)
