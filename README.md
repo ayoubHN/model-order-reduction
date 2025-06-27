@@ -48,13 +48,10 @@ To run the notebooks:
 
 ```bash
 pip install numpy scipy matplotlib jupyter
-Launch Jupyter:
+2. Launch Jupyter:
 
-bash
-Copy
-Edit
-jupyter notebook
-Open and run notebooks in /notebooks directory.
+
+3. Open and run notebooks in /notebooks directory.
 
 📚 References
 Benner, P., Gugercin, S., Willcox, K. (2015). A Survey of Projection-Based Model Reduction Methods for Parametric Dynamical Systems. SIAM Review.
